@@ -1,2 +1,3 @@
 # BankBudgetAnalysis
-Drafting a Python script to analyze a bank's financial data
+Drafting a Python script to analyze a bank's financial data\
+At this point, 
